@@ -1,0 +1,1 @@
+# Othello7x7
